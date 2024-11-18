@@ -1,2 +1,2 @@
 # TcpFileSender
-image.png
+https://github.com/HUUZHEN/tcp-/blob/main/image.png?raw=true
